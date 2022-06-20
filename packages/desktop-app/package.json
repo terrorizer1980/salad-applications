@@ -41,7 +41,7 @@
     "decompress-zip": "0.2.2",
     "electron-log": "4.2.4",
     "electron-updater": "4.3.5",
-    "is-online": "9.0.0",
+    "is-online": "10.0.0",
     "node-notifier": "8.0.0",
     "source-map-support": "0.5.19",
     "systeminformation": "4.27.11",
