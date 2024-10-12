@@ -35,7 +35,7 @@
     "start": "electron-webpack dev"
   },
   "dependencies": {
-    "@sentry/electron": "2.0.1",
+    "@sentry/electron": "4.15.0",
     "auto-launch": "5.0.5",
     "axios": "0.21.0",
     "decompress-zip": "0.2.2",
